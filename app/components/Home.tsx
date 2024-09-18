@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import Hero from './Hero/Hero'
 import Feature from './Features/Feature'
 import Popular from './Popular/Popular'
-import AOS, { init } from "aos";
+import AOS from "aos";
 import 'aos/dist/aos.css'
 
 const Home = () => {
